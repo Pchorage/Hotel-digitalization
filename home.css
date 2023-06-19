@@ -1,0 +1,75 @@
+header{
+    background-color:#ad569a;
+    width: auto;
+    height: 190px;
+    text-size-adjust: px;
+}
+#head_para{
+    font-size: 80px;
+    color: rgb(1, 10, 11);
+    font-family:Bowlby One SC;
+    text-align: center;
+}
+#welcome{
+    font-family: Fugaz One;
+    font-size: 50px;
+    color: rgb(180, 94, 37);
+    text-align: center;
+    padding-top: 5cm;
+}
+#veg_button{
+    font-family: 'Roboto', sans-serif;;
+    font-size: 80px;
+    color: aliceblue;
+    margin-right: 2cm;
+    box-shadow: 0 50px 50px #757676;
+    
+}
+#nonveg_button{
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    color: aliceblue;
+    align-items: center;
+    box-shadow: 0 50px 50px #757676;
+   
+}
+#but_bg{
+    background-color: #192618;
+    padding: 40px;
+    border-radius: 20%;
+   
+
+}
+#veg_food{
+    margin-left: 4.5cm;
+    padding-bottom: 2cm;
+    
+
+}
+#nv_food{
+    margin-left:4.5cm;
+    box-shadow: 0 50px 50px #153535;
+}
+#or{
+    font-family: 'Roboto', sans-serif;;
+    font-size: 30px;
+    color: rgb(11, 58, 105);
+    margin-left: 9cm;
+    margin-bottom: 4cm;
+    padding-bottom: 10px;
+    padding-top: 4cm;
+    align-items: center;
+    padding-left: 2cm;
+
+}
+#branches{
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+footer{
+    background-color: #526696;
+    width: auto;
+    padding: 7px;
+}
+
